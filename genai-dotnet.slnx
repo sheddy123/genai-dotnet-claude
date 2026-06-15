@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/section5_llms/">
     <Project Path="TextCompletion/TextCompletion.csproj" />
+    <Project Path="TextCompletion_Ollama/TextCompletion_Ollama.csproj" Id="159b2ff6-5643-4612-bd29-e7e88ead7f42" />
   </Folder>
 </Solution>
