@@ -7,5 +7,9 @@
   <Folder Name="/section6_vectors/">
     <Project Path="Embeddings/Embeddings.csproj" Id="31cdfb7e-9e1f-4480-9489-d12e2dd4ce24" />
     <Project Path="VectorSearch/VectorSearch.csproj" Id="582be120-7626-4b0f-94ee-3844dc1e76af" />
+    <Project Path="VectorSearch_Ollama/VectorSearch_Ollama.csproj" Id="7edd13e9-6962-47e0-91f7-d5bc2c928718" />
+  </Folder>
+  <Folder Name="/section7_rag/">
+    <Project Path="ChatApp_RAG/ChatApp_RAG.csproj" />
   </Folder>
 </Solution>
