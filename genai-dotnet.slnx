@@ -11,5 +11,6 @@
   </Folder>
   <Folder Name="/section7_rag/">
     <Project Path="ChatApp_RAG/ChatApp_RAG.csproj" />
+    <Project Path="ChatApp_RAG_Ollama/ChatApp_RAG_Ollama.csproj" />
   </Folder>
 </Solution>
